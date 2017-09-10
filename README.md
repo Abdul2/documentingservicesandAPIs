@@ -1,7 +1,9 @@
   
 # Intro
 
-This a simple and accessible summary of what to consider when documenting business services and corresponding APIs. it is not meant to be a comprehensive resource but more of  check list  to aid initial discussions on how to go about documenting services and APIs. As usual there are many tools out there and what works for you will very much depend on what's important to you.
+This READ.me is a summary of what to consider when documenting business services and corresponding APIs. it is not meant to be a comprehensive resource but more of  a  check list  to aid initial discussions on how to go about documenting services and APIs. As usual there are many tools out there and what works for you will very much depend on what's important to you. 
+
+To achieve good interfaces,  business services must be described in details first (unless you are replacing existing interfaces which hopefully means you already have all documentation you need). Good business service description will make the task of writing the code a lot easier and good API documentation will help your customers to easily consume your interfaces.
 
 
 # Future of this repo
@@ -16,11 +18,11 @@ It will very much depend on in-house style but it is worth including the followi
  |---------|------------|
  |Service name   | The name of the customer facing service as known to your customer.|
  | Service description | A basic description of what the service does, and what the deliverables and outcomes are.|
- | Service type   | Depends on the definition and structure known to you to build serve catalogue.|
+ | Service type   | Depends on the definition and structure known to you to build a service catalogue.|
  | Supporting services |   List any supporting services.|
  | Service owner(s) |A service owner is responsible for managing one or more services throughout their entire lifecycle|
  | Business impact| Describe of what would be the impact of not having this service available.|
- | Service level agreement| For example, ‘Monday–Friday 08:00 to 17:00 except public holidays’.|
+ | Service level agreement| Agree on acceptable down time if any |
  | Comments | Any other text required to build the API.|
   
   
