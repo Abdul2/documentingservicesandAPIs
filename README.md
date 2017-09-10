@@ -1,23 +1,20 @@
   
-  
-  
-  
-  
-  ### Business service description 
+
+  ## Business service description 
   
  | Section | Descripton |
  |---------|------------|
  |Service name   | The name of the customer facing service as known to your customer.|
  | Service description | A basic description of what the service does, and what the deliverables and outcomes are.|
- | Service type   | Depends on the categorisation structure you have established for your serve catalogue.|
+ | Service type   | Depends on the definition and structure known to you to build serve catalogue.|
  | Supporting services |   List any supporting services.|
- | Service owner(s) |A service owner is responsible for managing one or more services throughout their entire lifecyc|
- | Business impact| Describe what would be the impact of not having this service available.|
+ | Service owner(s) |A service owner is responsible for managing one or more services throughout their entire lifecycle|
+ | Business impact| Describe of what would be the impact of not having this service available.|
  | Service level agreement| For example, ‘Monday–Friday 08:00 to 17:00 except public holidays’.|
  | Comments | Any other text required to build the API.|
   
   
-  ### Good API description
+  ## Good API description
   
  There are three aspects to consider when documenting an API
  
@@ -25,16 +22,16 @@
  
  This includes 
  
- - A clear desciption of what the call does
+ - A clear description of what the PAI call does
  - Detailed examples
- - list of parameters used on the call and thier types and format
- - A sample response, including media type body, errors and warrning
+ - list of parameters used on the call and their types and format
+ - A sample response, including media type body, errors and warning
  
 #### how to use 
 
  - Code examples for multiple languages
- - SDK examples (if SDKs are provided) showing how to access the resource/method utilizing the SDK for their language
- - Interactive experiences (API Consol) to try/test API calls 
+ - SDK examples (if SDKs are provided) showing how to access the resource/method utilising the SDK for their language
+ - Interactive experiences (API Console) to try/test API calls 
  - FAQs
  
  #### support
@@ -44,9 +41,9 @@
  - Other support resources (forums, contact forms, etc.)
  
  
-### Tooling
+## Tooling
 
-There are number of tools to document service and API descriptions. Before making a decision, you need the consider your minimum must have features. Below is a short list to get you started.
+There are a number of tools to document service and API descriptions. Before making a decision, you need to consider your minimum must have features. Below is a short list to get you started.
 
 Basic tooling requirements are:
 
