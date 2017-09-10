@@ -1,43 +1,21 @@
   
   
+  
+  
+  
   ### Business service description 
   
-  #### Service name   
+ | Section | Descripton |
+ |---------|------------|
+ |Service name   | The name of the customer facing service as known to your customer.|
+ | Service description | A basic description of what the service does, and what the deliverables and outcomes are.|
+ | Service type   | Depends on the categorisation structure you have established for your serve catalogue.|
+ | Supporting services |   List any supporting services.|
+ | Service owner(s) |A service owner is responsible for managing one or more services throughout their entire lifecyc|
+ | Business impact| Describe what would be the impact of not having this service available.|
+ | Service level agreement| For example, ‘Monday–Friday 08:00 to 17:00 except public holidays’.|
+ | Comments | Any other text required to build the API.|
   
-  The name of the customer facing service as known to your customer.
-
-  #### Service description   
-  
-  A basic description of what the service does, and what the deliverables and outcomes are.
-
-  #### Service type   
-  
-  Depends on the categorisation structure you have established for your serve catalogue.
-
-  #### Supporting services   
-  
-  List any supporting services.
-                        
-                        
-  #### Service owner(s)  
-                     
-  A service owner is responsible for managing one or more services throughout their entire lifecycle.
-
-  #### Business impact   
-  
-  Describe what would be the impact of not having this service available.
-                    
-
-  #### Service level agreement   This can be a hyperlink to the full SLA
-                            
-   For example, ‘Monday–Friday 08:00 to 17:00 except public holidays’.
-                           
-  #### Comments
-  
-  Any other text required to build the API.
-  
-  
-  ---
   
   ### Good API description
   
@@ -64,4 +42,24 @@
  - Links to additional resources (other examples, blogs, etc.)
  - Comments section where users can share/discuss code
  - Other support resources (forums, contact forms, etc.)
+ 
+ 
+### Tooling
+
+There are number of tools to document service and API descriptions. Before making a decision, you need the consider your minimum must have features. Below is a short list to get you started.
+
+Basic tooling requirements are:
+
+- Re-use of currently avaible tools
+- User friendly and easy to learn
+- Easy to deploy and maintain
+- Good presenation 
+
+
+
+
+
+
+
+ 
 
