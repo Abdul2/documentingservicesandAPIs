@@ -1,7 +1,7 @@
   
 # Intro
 
-This READ.me is a summary of what to consider when documenting business services and corresponding APIs. it is not meant to be a comprehensive resource but more of  a  check list  to aid initial discussions on how to go about documenting services and APIs. As usual there are many tools out there and what works for you will very much depend on what's important to you. 
+This page is a summary of what to consider when documenting business services and corresponding APIs. it is not meant to be a comprehensive resource but more of  a  check list  to aid initial discussions on how to go about documenting services and APIs. As usual there are many tools out there and what works for you will very much depend on what's important to you. 
 
 To achieve good interfaces,  business services must be described in details first (unless you are replacing existing interfaces which hopefully means you already have all documentation you need). Good business service description will make the task of writing the code a lot easier and good API documentation will help your customers to easily consume your interfaces.
 
